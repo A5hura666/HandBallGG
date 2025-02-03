@@ -6,8 +6,8 @@ services:
         ports:
             - "3000:3000"
         environment:
-            DATABASE_mongodb: mongodb://admin:admin@mongodb:27017/
-            JWT_SECRET: UQAwzuiD666c7Jbph27449vFz8Mhis5
+            DATABASE_mongodb: ${DATABASE_MONGODB}
+            JWT_SECRET: ${JWT_SECRET}
         networks:
             - handballgg-network
     mongodb:
@@ -15,9 +15,9 @@ services:
         ports:
             - "27017:27017"
         environment:
-            MONGO_INITDB_ROOT_USERNAME: admin
-            MONGO_INITDB_ROOT_PASSWORD: admin
-            MONGO_INITDB_DATABASE: HandBallGG
+            MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+            MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+            MONGO_INITDB_DATABASE: ${MONGO_INITDB_DATABASE}
         networks:
             - handballgg-network
 networks:
