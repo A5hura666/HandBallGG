@@ -7,7 +7,7 @@ const User = require("../models/userModel");
 
 dotenv.config({ path: './config.env' });
 
-const db = process.env.DATABASE_mongodb
+const db = process.env.DATABASE_MONGODB
 
 mongoose.connect(db, {
 	useNewUrlParser: true,

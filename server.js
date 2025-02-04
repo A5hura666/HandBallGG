@@ -17,7 +17,7 @@ process.on('uncaughtException', err => {
 dotenv.config({ path: './config.env' });
 const app = require('./app');
 
-const db = process.env.DATABASE_mongodb
+const db = process.env.DATABASE_MONGODB
 
 mongoose.set('strictQuery', true);
 
