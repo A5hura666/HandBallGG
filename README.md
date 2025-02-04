@@ -75,5 +75,5 @@ sudo docker network create handballgg-network
 sudo docker run -d --name mongo --network handballgg-network --env MONGO_INITDB_ROOT_USERNAME: admin --env MONGO_INITDB_ROOT_PASSWORD: admin --env MONGO_INITDB_DATABASE: HandBallGG mongo:4
 
 
-sudo docker run -d --name node --network handballgg-network -p 3000:3000 --env DATABASE_MONGODB: mongodb://admin:admin@mongodb:27017/ --env JWT_SECRET: UQAwzuiD666c7Jbph27449vFz8Mhis5 node:18-alpine
+sudo docker run -d --name node --network handballgg-network -p 3000:3000 --env DATABASE_mongodb: mongodb://admin:admin@mongodb:27017/ --env JWT_SECRET: UQAwzuiD666c7Jbph27449vFz8Mhis5 node:18-alpine
 ```

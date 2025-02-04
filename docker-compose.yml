@@ -6,7 +6,7 @@ services:
         ports:
             - "3000:3000"
         environment:
-            DATABASE_mongodb: ${DATABASE_MONGODB}
+            DATABASE_mongodb: ${DATABASE_mongodb}
             JWT_SECRET: ${JWT_SECRET}
         networks:
             - handballgg-network
