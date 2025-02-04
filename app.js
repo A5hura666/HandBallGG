@@ -22,13 +22,7 @@ const app = express(); // Create express app
 app.set('view engine', 'pug'); // Set view engine
 app.set('views', `${__dirname}/views`); // Set views folder
 
-// Set security HTTP headers
-app.use(helmet());
 
-// Development login
-if (process.env.NODE_ENV === 'development') {
-	app.use(morgan('dev'));
-}
 
 // Limit requests
 const limiter = rateLimit({

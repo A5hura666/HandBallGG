@@ -4,7 +4,7 @@ services:
         build: .
         restart: always
         ports:
-            - "3000:3000"
+            - "80:80"
         environment:
             DATABASE_mongodb: ${DATABASE_mongodb}
             JWT_SECRET: ${JWT_SECRET}
