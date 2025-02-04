@@ -10,6 +10,8 @@ services:
             JWT_SECRET: ${JWT_SECRET}
         networks:
             - handballgg-network
+        depends_on:
+            - mongodb
     mongodb:
         image: mongo:4
         ports:

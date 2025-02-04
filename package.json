@@ -41,9 +41,9 @@
 		"morgan": "^1.10.0",
 		"multer": "^1.4.5-lts.1",
 		"nodemailer": "^6.9.0",
-		"nodemon": "^2.0.20",
+		"nodemon": "^3.1.9",
 		"pug": "^3.0.2",
-		"sharp": "^0.31.3",
+		"sharp": "^0.33.5",
 		"slugify": "^1.6.5",
 		"validator": "^13.7.0",
 		"xss-clean": "^0.1.1"

@@ -2,9 +2,9 @@ const mongoose = require('mongoose');
 const fs = require('fs');
 const Equipe = require('./models/equipeModel');
 const Match = require('./models/matchModel');
+const User = require('./models/userModel'); // Ajout du modèle User
 const dotenv = require('dotenv');
 const catchAsync = require('./utils/catchAsync');
-
 
 process.on('uncaughtException', err => {
 	console.log(err);
@@ -16,9 +16,6 @@ process.on('uncaughtException', err => {
 
 dotenv.config({ path: './config.env' });
 const app = require('./app');
-
-
-
 
 const db = process.env.DATABASE_mongodb
 
@@ -50,44 +47,47 @@ process.on('unhandledRejection', err => {
 /* -------------------- Importing data if the database is empty -------------------- */
 /*-----------------------------------------------------------------------------------*/
 
+// Importation des équipes
 const Equipes = JSON.parse(fs.readFileSync(`${__dirname}/dev-data/equipes.json`, 'UTF-8'));
-const importEquipes = catchAsync(async (req, res, next) => {
-
+const importEquipes = catchAsync(async () => {
 	const equipes = await Equipe.find();
-
-
-	if (equipes.length <= 0) {
-		const importDatabase = async () => {
-			try {
-				await Equipe.create(Equipes);
-				console.log("Equipes created");
-			} catch (e) {
-				console.error(e)
-			}
+	if (equipes.length === 0) {
+		try {
+			await Equipe.create(Equipes);
+			console.log("✅ Equipes imported successfully");
+		} catch (e) {
+			console.error("❌ Error importing equipes:", e);
 		}
-		importDatabase();
 	}
-})
-importEquipes()
+});
+importEquipes();
 
-
-
+// Importation des matchs
 const Matchs = JSON.parse(fs.readFileSync(`${__dirname}/dev-data/matchs.json`, 'UTF-8'));
-const importMatch = catchAsync(async (req, res, next) => {
-
+const importMatchs = catchAsync(async () => {
 	const matchs = await Match.find();
-
-
-	if (matchs.length <= 0) {
-		const importDatabase = async () => {
-			try {
-				await Match.create(Matchs);
-				console.log("Matchs created");
-			} catch (e) {
-				console.error(e)
-			}
+	if (matchs.length === 0) {
+		try {
+			await Match.create(Matchs);
+			console.log("✅ Matchs imported successfully");
+		} catch (e) {
+			console.error("❌ Error importing matchs:", e);
 		}
-		importDatabase();
 	}
-})
-importMatch()
+});
+importMatchs();
+
+// Importation des utilisateurs
+const Users = JSON.parse(fs.readFileSync(`${__dirname}/dev-data/users.json`, 'UTF-8'));
+const importUsers = catchAsync(async () => {
+	const users = await User.find();
+	if (users.length === 0) {
+		try {
+			await User.create(Users);
+			console.log("✅ Users imported successfully");
+		} catch (e) {
+			console.error("❌ Error importing users:", e);
+		}
+	}
+});
+importUsers();

@@ -4,7 +4,7 @@
         "isAtHome": "true",
         "againstTeam": "ATHLETIC HANDBALL ST VALLIER",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-09-25 14:00:00",
+        "date": "2025-09-25 14:00:00",
         "weekNumber": "38",
         "dayNumber": "1",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -14,7 +14,7 @@
         "isAtHome": "true",
         "againstTeam": "BOURG DE PÉAGE DRÔME HAND BALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-10-02 11:00:00",
+        "date": "2025-10-02 11:00:00",
         "weekNumber": "39",
         "dayNumber": "1",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -24,7 +24,7 @@
         "isAtHome": "true",
         "againstTeam": "ISARDROME 2",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-10-02 16:00:00",
+        "date": "2025-10-02 16:00:00",
         "weekNumber": "39",
         "dayNumber": "1",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -34,7 +34,7 @@
         "isAtHome": "false",
         "againstTeam": "HANDBALL ST MAURICE L EXIL",
         "host": "HANDBALL ST MAURICE L EXIL",
-        "date": "2022-10-01 21:00:00",
+        "date": "2025-10-01 21:00:00",
         "weekNumber": "39",
         "dayNumber": "2",
         "gymnasium": "SALLE OMNISPORTS"
@@ -44,7 +44,7 @@
         "isAtHome": "false",
         "againstTeam": "HBC SAINT DONAT",
         "host": "HBC ST DONAT",
-        "date": "2022-10-01 17:00:00",
+        "date": "2025-10-01 17:00:00",
         "weekNumber": "39",
         "dayNumber": "1",
         "gymnasium": "gymnasium MUNICIPAL"
@@ -54,7 +54,7 @@
         "isAtHome": "false",
         "againstTeam": "ATHLÉTIC HANDBALL SAINT VALLIER",
         "host": "ATHLETIC HANDBALL ST VALLIER",
-        "date": "2022-10-08 16:30:00",
+        "date": "2025-10-08 16:30:00",
         "weekNumber": "40",
         "dayNumber": "2",
         "gymnasium": "MICHEL BETTON"
@@ -64,7 +64,7 @@
         "isAtHome": "true",
         "againstTeam": "ENTENTE ARDECHE MERIDIONALE HANDBALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-10-09 14:00:00",
+        "date": "2025-10-09 14:00:00",
         "weekNumber": "40",
         "dayNumber": "2",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -74,7 +74,7 @@
         "isAtHome": "false",
         "againstTeam": "HANDBALL CLUB SAINT MARCELLOIS",
         "host": "HANDBALL CLUB SAINT MARCELLOIS",
-        "date": "2023-01-21 13:30:00",
+        "date": "2026-01-21 13:30:00",
         "weekNumber": "3",
         "dayNumber": "2",
         "gymnasium": "HALLE DES SPORTS"
@@ -84,7 +84,7 @@
         "isAtHome": "false",
         "againstTeam": "HB BOURG LES VALENCE",
         "host": "HB BOURG LES VALENCE",
-        "date": "2022-10-08 20:00:00",
+        "date": "2025-10-08 20:00:00",
         "weekNumber": "40",
         "dayNumber": "2",
         "gymnasium": "HALLE DU VALENTIN"
@@ -94,7 +94,7 @@
         "isAtHome": "false",
         "againstTeam": "ENTENTE CALUIRE RILLIEUX LYON METROPOLE",
         "host": "AS LYON CALUIRE",
-        "date": "2022-10-16 16:00:00",
+        "date": "2025-10-16 16:00:00",
         "weekNumber": "41",
         "dayNumber": "4",
         "gymnasium": "gymnasium CHARLES SENARD"
@@ -104,7 +104,7 @@
         "isAtHome": "false",
         "againstTeam": "ENTENTE BOURG DE PEAGE ST MARCEL",
         "host": "BOURG DE PEAGE DROME HANDBALL",
-        "date": "2022-10-15 13:15:00",
+        "date": "2025-10-15 13:15:00",
         "weekNumber": "41",
         "dayNumber": "3",
         "gymnasium": "COMPLEXE SPORTIF VERCORS / SALLE COMPETITION"
@@ -114,7 +114,7 @@
         "isAtHome": "false",
         "againstTeam": "HBC SAINT DONAT",
         "host": "BOURG DE PEAGE DROME HANDBALL",
-        "date": "2022-10-16 13:00:00",
+        "date": "2025-10-16 13:00:00",
         "weekNumber": "41",
         "dayNumber": "3",
         "gymnasium": "COMPLEXE SPORTIF VERCORS / SALLE COMPETITION"
@@ -124,7 +124,7 @@
         "isAtHome": "true",
         "againstTeam": "BOURG DE PÉAGE DRÔME HAND BALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-10-15 18:00:00",
+        "date": "2025-10-15 18:00:00",
         "weekNumber": "41",
         "dayNumber": "3",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -134,7 +134,7 @@
         "isAtHome": "true",
         "againstTeam": "BOURG DE PÉAGE DRÔME HAND BALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-10-15 20:00:00",
+        "date": "2025-10-15 20:00:00",
         "weekNumber": "41",
         "dayNumber": "3",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -144,7 +144,7 @@
         "isAtHome": "false",
         "againstTeam": "HBC ANNONEEN",
         "host": "HBC ANNONEEN",
-        "date": "2022-10-23 14:00:00",
+        "date": "2025-10-23 14:00:00",
         "weekNumber": "42",
         "dayNumber": "4",
         "gymnasium": "gymnasium DU ZODIAQUE"
@@ -154,7 +154,7 @@
         "isAtHome": "false",
         "againstTeam": "HB07 LE TEIL",
         "host": "HB 07 LE TEIL",
-        "date": "2022-11-05 14:00:00",
+        "date": "2025-11-05 14:00:00",
         "weekNumber": "44",
         "dayNumber": "1",
         "gymnasium": "gymnasium PIERRE DE COUBERTIN (LA VIOLETTE)"
@@ -164,7 +164,7 @@
         "isAtHome": "true",
         "againstTeam": "ENTENTE CO ST FONS – RC MERMOZ",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-11-12 19:00:00",
+        "date": "2025-11-12 19:00:00",
         "weekNumber": "45",
         "dayNumber": "5",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -174,7 +174,7 @@
         "isAtHome": "true",
         "againstTeam": "UNION 30",
         "host": "HB ETOILE BEAUVALLON",
-        "date": "2022-11-12 18:30:00",
+        "date": "2025-11-12 18:30:00",
         "weekNumber": "45",
         "dayNumber": "7",
         "gymnasium": "gymnasium MUNICIPAL ETOILE"
@@ -184,7 +184,7 @@
         "isAtHome": "false",
         "againstTeam": "HBC SAINT DONAT",
         "host": "HBC ST DONAT",
-        "date": "2022-11-12 15:00:00",
+        "date": "2025-11-12 15:00:00",
         "weekNumber": "45",
         "dayNumber": "4",
         "gymnasium": "gymnasium MUNICIPAL"
@@ -194,7 +194,7 @@
         "isAtHome": "true",
         "againstTeam": "HB ETOILE/BEAUVALLON",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-11-20 10:30:00",
+        "date": "2025-11-20 10:30:00",
         "weekNumber": "46",
         "dayNumber": "5",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -204,7 +204,7 @@
         "isAtHome": "true",
         "againstTeam": "ATHLÉTIC HANDBALL SAINT VALLIER",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-11-20 12:00:00",
+        "date": "2025-11-20 12:00:00",
         "weekNumber": "46",
         "dayNumber": "5",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -214,7 +214,7 @@
         "isAtHome": "true",
         "againstTeam": "ENTENTE ARDECHE MERIDIONALE HANDBALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-11-20 14:00:00",
+        "date": "2025-11-20 14:00:00",
         "weekNumber": "46",
         "dayNumber": "6",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -224,7 +224,7 @@
         "isAtHome": "true",
         "againstTeam": "DECINES HANDBALL CLUB",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-11-20 16:00:00",
+        "date": "2025-11-20 16:00:00",
         "weekNumber": "46",
         "dayNumber": "6",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -234,7 +234,7 @@
         "isAtHome": "false",
         "againstTeam": "ENTENTE ARDECHE MERIDIONALE HANDBALL",
         "host": "ENTENTE ARDÈCHE MÉRIDIONALE HANDBALL",
-        "date": "2022-12-10 17:00:00",
+        "date": "2025-12-10 17:00:00",
         "weekNumber": "49",
         "dayNumber": "7",
         "gymnasium": "gymnasium ROQUA"
@@ -244,7 +244,7 @@
         "isAtHome": "true",
         "againstTeam": "ENTENTE PAYS DE BIEVRE HANDBALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-12-10 17:00:00",
+        "date": "2025-12-10 17:00:00",
         "weekNumber": "49",
         "dayNumber": "7",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -254,7 +254,7 @@
         "isAtHome": "true",
         "againstTeam": "Exempt 1",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-12-10 19:00:00",
+        "date": "2025-12-10 19:00:00",
         "weekNumber": "49",
         "dayNumber": "8",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -264,7 +264,7 @@
         "isAtHome": "true",
         "againstTeam": "ENTENTE ST DONAT-BOURG DE PEAGE",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-12-10 21:00:00",
+        "date": "2025-12-10 21:00:00",
         "weekNumber": "49",
         "dayNumber": "8",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -274,7 +274,7 @@
         "isAtHome": "false",
         "againstTeam": "MONTELIMAR CHB",
         "host": "MONTELIMAR CLUB HANDBALL",
-        "date": "2022-12-17 18:00:00",
+        "date": "2025-12-17 18:00:00",
         "weekNumber": "50",
         "dayNumber": "9",
         "gymnasium": "gymnasium EUROPA"
@@ -284,7 +284,7 @@
         "isAtHome": "true",
         "againstTeam": "ECHALAS HBC",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-10-29 19:00:00",
+        "date": "2025-10-29 19:00:00",
         "weekNumber": "43",
         "dayNumber": "1",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -294,7 +294,7 @@
         "isAtHome": "false",
         "againstTeam": "HB07 LE TEIL",
         "host": "HB 07 LE TEIL",
-        "date": "2022-11-13 11:30:00",
+        "date": "2025-11-13 11:30:00",
         "weekNumber": "45",
         "dayNumber": "4",
         "gymnasium": "gymnasium PIERRE DE COUBERTIN (LA VIOLETTE)"
@@ -304,7 +304,7 @@
         "isAtHome": "false",
         "againstTeam": "HB 07 LE TEIL",
         "host": "HB 07 LE TEIL",
-        "date": "2022-11-19 14:15:00",
+        "date": "2025-11-19 14:15:00",
         "weekNumber": "46",
         "dayNumber": "2",
         "gymnasium": "gymnasium PIERRE DE COUBERTIN (LA VIOLETTE)"
@@ -314,7 +314,7 @@
         "isAtHome": "false",
         "againstTeam": "BOURG DE PÉAGE DRÔME HAND BALL",
         "host": "BOURG DE PEAGE DROME HANDBALL",
-        "date": "2022-12-03 14:00:00",
+        "date": "2025-12-03 14:00:00",
         "weekNumber": "48",
         "dayNumber": "6",
         "gymnasium": "COMPLEXE SPORTIF VERCORS / SALLE COMPETITION"
@@ -324,7 +324,7 @@
         "isAtHome": "false",
         "againstTeam": "ENT. TRICASTIN HB",
         "host": "ATOM SPORT ENT. TRICASTIN HB",
-        "date": "2022-12-10 12:00:00",
+        "date": "2025-12-10 12:00:00",
         "weekNumber": "49",
         "dayNumber": "4",
         "gymnasium": "HALLE DES SPORTS"
@@ -334,7 +334,7 @@
         "isAtHome": "true",
         "againstTeam": "HBC CHABEUIL 2",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-11-13 14:00:00",
+        "date": "2025-11-13 14:00:00",
         "weekNumber": "45",
         "dayNumber": "5",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -344,7 +344,7 @@
         "isAtHome": "false",
         "againstTeam": "HB PAYS DE ST MARCELLIN",
         "host": "HB PAYS DE ST MARCELLIN",
-        "date": "2022-11-12 12:30:00",
+        "date": "2025-11-12 12:30:00",
         "weekNumber": "45",
         "dayNumber": "4",
         "gymnasium": "gymnasium LA SAULAIE"
@@ -354,7 +354,7 @@
         "isAtHome": "false",
         "againstTeam": "HB TAIN VION TOURNON",
         "host": "HB TAIN VION TOURNON",
-        "date": "2022-12-03 21:00:00",
+        "date": "2025-12-03 21:00:00",
         "weekNumber": "48",
         "dayNumber": "7",
         "gymnasium": "HALLE DES SPORTS L. SAUSSET"
@@ -364,7 +364,7 @@
         "isAtHome": "false",
         "againstTeam": "LIVRON HANDBALL",
         "host": "LIVRON HANDBALL",
-        "date": "2022-12-03 14:30:00",
+        "date": "2025-12-03 14:30:00",
         "weekNumber": "48",
         "dayNumber": "6",
         "gymnasium": "gymnasium CLAUDE BON"
@@ -374,7 +374,7 @@
         "isAtHome": "true",
         "againstTeam": "HBC ECHIROLLES EYBENS",
         "host": "HB ETOILE/BEAUVALLON",
-        "date": "2022-11-19 18:30:00",
+        "date": "2025-11-19 18:30:00",
         "weekNumber": "46",
         "dayNumber": "8",
         "gymnasium": "gymnasium MUNICIPAL ETOILE"
@@ -384,7 +384,7 @@
         "isAtHome": "true",
         "againstTeam": "DROME HB FEMININ",
         "host": "HB ETOILE/BEAUVALLON",
-        "date": "2022-12-10 18:30:00",
+        "date": "2025-12-10 18:30:00",
         "weekNumber": "49",
         "dayNumber": "10",
         "gymnasium": "gymnasium MUNICIPAL ETOILE"
@@ -394,7 +394,7 @@
         "isAtHome": "true",
         "againstTeam": "P16F DIV - ENTENTE ISARDROME 2",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-10-02 16:00:00",
+        "date": "2025-10-02 16:00:00",
         "weekNumber": "39",
         "dayNumber": "1",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -404,7 +404,7 @@
         "isAtHome": "false",
         "againstTeam": "P16F - ENTENTE CALUIRE RILLIEUX LYON METROPOLE",
         "host": "AS LYON CALUIRE",
-        "date": "2022-10-16 16:00:00",
+        "date": "2025-10-16 16:00:00",
         "weekNumber": "41",
         "dayNumber": "4",
         "gymnasium": "gymnasium CHARLES SENARD"
@@ -414,7 +414,7 @@
         "isAtHome": "false",
         "againstTeam": "M13F DIV - ENTENTE BOURG DE PEAGE-ST-MARCEL",
         "host": "BOURG DE PEAGE DROME HANDBALL",
-        "date": "2022-10-15 13:15:00",
+        "date": "2025-10-15 13:15:00",
         "weekNumber": "41",
         "dayNumber": "3",
         "gymnasium": "COMPLEXE SPORTIF VERCORS / SALLE COMPETITION"
@@ -424,7 +424,7 @@
         "isAtHome": "true",
         "againstTeam": "P16F DIV  - ENTENTE BOURG DE PEAGE-ST DONAT",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-10-15 20:00:00",
+        "date": "2025-10-15 20:00:00",
         "weekNumber": "41",
         "dayNumber": "3",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -434,7 +434,7 @@
         "isAtHome": "true",
         "againstTeam": "P16F - ENTENTE CO ST FONS - RC MERMOZ",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-11-12 19:00:00",
+        "date": "2025-11-12 19:00:00",
         "weekNumber": "45",
         "dayNumber": "5",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -444,7 +444,7 @@
         "isAtHome": "false",
         "againstTeam": "HB PAYS DE ST MARCELLIN",
         "host": "HB PAYS DE ST MARCELLIN",
-        "date": "2022-12-03 20:30:00",
+        "date": "2025-12-03 20:30:00",
         "weekNumber": "48",
         "dayNumber": "7",
         "gymnasium": "gymnasium LA SAULAIE"
@@ -454,7 +454,7 @@
         "isAtHome": "true",
         "againstTeam": "M13F DIV - PAYS DE BIEVRE HANDBALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-12-10 17:00:00",
+        "date": "2025-12-10 17:00:00",
         "weekNumber": "49",
         "dayNumber": "7",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -464,7 +464,7 @@
         "isAtHome": "true",
         "againstTeam": "P16F  PN - ENTENTE ST DONAT - BOURG DE PEAGE HB",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2022-12-10 21:00:00",
+        "date": "2025-12-10 21:00:00",
         "weekNumber": "49",
         "dayNumber": "8",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -474,7 +474,7 @@
         "isAtHome": "false",
         "againstTeam": "P16F DIV - ENTENTE MONTELIMAR-DIEULEFIT",
         "host": "MONTELIMAR CLUB HANDBALL",
-        "date": "2022-12-17 18:00:00",
+        "date": "2025-12-17 18:00:00",
         "weekNumber": "50",
         "dayNumber": "9",
         "gymnasium": "gymnasium EUROPA"
@@ -484,7 +484,7 @@
         "isAtHome": "false",
         "againstTeam": "HANDBALL CLUB CHABEUIL",
         "host": "HANDBALL CLUB CHABEUIL",
-        "date": "2022-12-17 19:00:00",
+        "date": "2025-12-17 19:00:00",
         "weekNumber": "50",
         "dayNumber": "9",
         "gymnasium": "gymnasium municipal"
@@ -494,7 +494,7 @@
         "isAtHome": "false",
         "againstTeam": "HB07 LE TEIL",
         "host": "HB 07 LE TEIL",
-        "date": "2023-01-07 19:00:00",
+        "date": "2026-01-07 19:00:00",
         "weekNumber": "1",
         "dayNumber": "10",
         "gymnasium": "gymnasium PIERRE DE COUBERTIN (LA VIOLETTE)"
@@ -504,7 +504,7 @@
         "isAtHome": "false",
         "againstTeam": "AVENIR 84F",
         "host": "AVENIR 84F",
-        "date": "2022-12-03 16:00:00",
+        "date": "2025-12-03 16:00:00",
         "weekNumber": "48",
         "dayNumber": "9",
         "gymnasium": "gymnasium André Gimard, Avignon"
@@ -514,7 +514,7 @@
         "isAtHome": "false",
         "againstTeam": "P16F  PN - ENTENTE LORIOL - LE POUZIN",
         "host": "HBC LORIOL",
-        "date": "2023-01-07 19:00:00",
+        "date": "2026-01-07 19:00:00",
         "weekNumber": "1",
         "dayNumber": "10",
         "gymnasium": "gymnasium JEAN CLEMENT"
@@ -524,7 +524,7 @@
         "isAtHome": "true",
         "againstTeam": "ATHLÉTIC HANDBALL SAINT VALLIER",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-01-14 14:00:00",
+        "date": "2026-01-14 14:00:00",
         "weekNumber": "2",
         "dayNumber": "1",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -534,7 +534,7 @@
         "isAtHome": "false",
         "againstTeam": "HANDBALL CLUB LAMASTROIS",
         "host": "HANDBALL CLUB LAMASTROIS",
-        "date": "2023-01-14 18:00:00",
+        "date": "2026-01-14 18:00:00",
         "weekNumber": "2",
         "dayNumber": "1",
         "gymnasium": "gymnasium INTERCOMMUNAL"
@@ -544,7 +544,7 @@
         "isAtHome": "false",
         "againstTeam": "M13F DIV - ISARDROME",
         "host": "HANDBALL CLUB SABLONS-SERRIERES",
-        "date": "2023-02-25 17:00:00",
+        "date": "2026-02-25 17:00:00",
         "weekNumber": "8",
         "dayNumber": "1",
         "gymnasium": "SALLE OMNISPORTS"
@@ -554,7 +554,7 @@
         "isAtHome": "false",
         "againstTeam": "LIVRON HANDBALL",
         "host": "LIVRON HANDBALL",
-        "date": "2023-01-14 19:00:00",
+        "date": "2026-01-14 19:00:00",
         "weekNumber": "2",
         "dayNumber": "11",
         "gymnasium": "gymnasium CLAUDE BON"
@@ -564,7 +564,7 @@
         "isAtHome": "false",
         "againstTeam": "P16F - ENTENTE LYON EST HANDBALL",
         "host": "ST PRIEST HANDBALL",
-        "date": "2023-01-15 16:00:00",
+        "date": "2026-01-15 16:00:00",
         "weekNumber": "2",
         "dayNumber": "11",
         "gymnasium": "HALLE DES SPORTS"
@@ -574,7 +574,7 @@
         "isAtHome": "false",
         "againstTeam": "ATHLETIC HANDBALL ST VALLIER",
         "host": "ATHLETIC HANDBALL ST VALLIER",
-        "date": "2023-01-21 19:30:00",
+        "date": "2026-01-21 19:30:00",
         "weekNumber": "3",
         "dayNumber": "12",
         "gymnasium": "MICHEL BETTON"
@@ -584,7 +584,7 @@
         "isAtHome": "false",
         "againstTeam": "P16F DIV - ENTENTE ISARDROME 2",
         "host": "FORMATION ALBONNAISE ET RAMBERTOISE HANDBALL",
-        "date": "2023-02-25 21:00:00",
+        "date": "2026-02-25 21:00:00",
         "weekNumber": "8",
         "dayNumber": "12",
         "gymnasium": "SALLE OMNISPORTS"
@@ -594,7 +594,7 @@
         "isAtHome": "false",
         "againstTeam": "HANDBALL CLUB SAINT MARCELLOIS",
         "host": "HANDBALL CLUB SAINT MARCELLOIS",
-        "date": "2023-01-21 15:30:00",
+        "date": "2026-01-21 15:30:00",
         "weekNumber": "3",
         "dayNumber": "2",
         "gymnasium": "HALLE DES SPORTS"
@@ -604,7 +604,7 @@
         "isAtHome": "true",
         "againstTeam": "ENTENTE ARDECHE MERIDIONALE HANDBALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-01-29 12:00:00",
+        "date": "2026-01-29 12:00:00",
         "weekNumber": "4",
         "dayNumber": "3",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -614,7 +614,7 @@
         "isAtHome": "true",
         "againstTeam": "HANDBALL ST MAURICE L EXIL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-01-29 14:00:00",
+        "date": "2026-01-29 14:00:00",
         "weekNumber": "4",
         "dayNumber": "13",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -624,7 +624,7 @@
         "isAtHome": "true",
         "againstTeam": "HB BOURG LES VALENCE",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-01-29 16:00:00",
+        "date": "2026-01-29 16:00:00",
         "weekNumber": "4",
         "dayNumber": "13",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -634,7 +634,7 @@
         "isAtHome": "false",
         "againstTeam": "HANDBALL CLUB CHABEUIL",
         "host": "HANDBALL CLUB CHABEUIL",
-        "date": "2023-01-28 14:30:00",
+        "date": "2026-01-28 14:30:00",
         "weekNumber": "4",
         "dayNumber": "3",
         "gymnasium": "gymnasium municipal"
@@ -644,7 +644,7 @@
         "isAtHome": "false",
         "againstTeam": "P16F DIV  - ENTENTE BOURG DE PEAGE-ST DONAT",
         "host": "BOURG DE PEAGE DROME HANDBALL",
-        "date": "2023-02-03 21:00:00",
+        "date": "2026-02-03 21:00:00",
         "weekNumber": "5",
         "dayNumber": "14",
         "gymnasium": "COMPLEXE SPORTIF VERCORS / SALLE COMPETITION"
@@ -654,7 +654,7 @@
         "isAtHome": "false",
         "againstTeam": "ENTENTE ARDECHE MERIDIONALE HANDBALL",
         "host": "ENTENTE ARDÈCHE MÉRIDIONALE HANDBALL",
-        "date": "2023-03-18 20:00:00",
+        "date": "2026-03-18 20:00:00",
         "weekNumber": "11",
         "dayNumber": "17",
         "gymnasium": "gymnasium ROQUA"
@@ -664,7 +664,7 @@
         "isAtHome": "false",
         "againstTeam": "HB ETOILE/BEAUVALLON",
         "host": "HB ETOILE/BEAUVALLON",
-        "date": "2023-02-04 18:30:00",
+        "date": "2026-02-04 18:30:00",
         "weekNumber": "5",
         "dayNumber": "3",
         "gymnasium": "gymnasium MUNICIPAL"
@@ -674,7 +674,7 @@
         "isAtHome": "true",
         "againstTeam": "LIVRON HANDBALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-03-04 16:00:00",
+        "date": "2026-03-04 16:00:00",
         "weekNumber": "9",
         "dayNumber": "4",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -684,7 +684,7 @@
         "isAtHome": "true",
         "againstTeam": "HBC ANNONEEN",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-03-04 20:00:00",
+        "date": "2026-03-04 20:00:00",
         "weekNumber": "9",
         "dayNumber": "15",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -694,7 +694,7 @@
         "isAtHome": "false",
         "againstTeam": "LE POUZIN HB 07",
         "host": "LE POUZIN HB 07",
-        "date": "2023-03-04 17:00:00",
+        "date": "2026-03-04 17:00:00",
         "weekNumber": "9",
         "dayNumber": "4",
         "gymnasium": "JACKSON RICHARDSON"
@@ -704,7 +704,7 @@
         "isAtHome": "false",
         "againstTeam": "MONTELIMAR CLUB HANDBALL",
         "host": "MONTELIMAR CLUB HANDBALL",
-        "date": "2023-03-11 15:30:00",
+        "date": "2026-03-11 15:30:00",
         "weekNumber": "10",
         "dayNumber": "5",
         "gymnasium": "ESPACE EDUCATIF ET SPORTIF"
@@ -714,7 +714,7 @@
         "isAtHome": "false",
         "againstTeam": "ENTENTE ARDECHE MERIDIONALE HANDBALL",
         "host": "ENTENTE ARDÈCHE MÉRIDIONALE HANDBALL",
-        "date": "2023-04-09 14:00:00",
+        "date": "2026-04-09 14:00:00",
         "weekNumber": "14",
         "dayNumber": "8",
         "gymnasium": "gymnasium ROQUA"
@@ -724,7 +724,7 @@
         "isAtHome": "false",
         "againstTeam": "DECINES HANDBALL CLUB",
         "host": "DECINES HANDBALL CLUB",
-        "date": "2023-03-18 18:00:00",
+        "date": "2026-03-18 18:00:00",
         "weekNumber": "11",
         "dayNumber": "17",
         "gymnasium": "gymnasium CHARLIE CHAPLIN"
@@ -734,7 +734,7 @@
         "isAtHome": "false",
         "againstTeam": "LYON HANDBALL",
         "host": "LYON HANDBALL",
-        "date": "2023-02-05 12:00:00",
+        "date": "2026-02-05 12:00:00",
         "weekNumber": "5",
         "dayNumber": "2",
         "gymnasium": "gymnasium CLEMENCEAU"
@@ -744,7 +744,7 @@
         "isAtHome": "true",
         "againstTeam": "HBC LORIOL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-03-04 14:30:00",
+        "date": "2026-03-04 14:30:00",
         "weekNumber": "9",
         "dayNumber": "4",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -754,7 +754,7 @@
         "isAtHome": "true",
         "againstTeam": "HANDBALL CLUB LAMASTROIS",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-03-18 14:00:00",
+        "date": "2026-03-18 14:00:00",
         "weekNumber": "11",
         "dayNumber": "6",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -764,7 +764,7 @@
         "isAtHome": "true",
         "againstTeam": "HANDBALL CLUB SAINT MARCELLOIS",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-04-02 10:00:00",
+        "date": "2026-04-02 10:00:00",
         "weekNumber": "13",
         "dayNumber": "7",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -774,7 +774,7 @@
         "isAtHome": "false",
         "againstTeam": "M18F - ENTENTE DU COEUR ARDECHOIS",
         "host": "HANDBALL CLUB LAMASTROIS",
-        "date": "2023-01-14 18:00:00",
+        "date": "2026-01-14 18:00:00",
         "weekNumber": "2",
         "dayNumber": "1",
         "gymnasium": "gymnasium INTERCOMMUNAL"
@@ -784,7 +784,7 @@
         "isAtHome": "true",
         "againstTeam": "M18F - ENTENTE DU COEUR ARDECHOIS",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-03-18 14:00:00",
+        "date": "2026-03-18 14:00:00",
         "weekNumber": "11",
         "dayNumber": "6",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -794,7 +794,7 @@
         "isAtHome": "false",
         "againstTeam": "M13F DIV - ISARDROME",
         "host": "HANDBALL CLUB SABLONS-SERRIERES",
-        "date": "2023-03-18 17:45:00",
+        "date": "2026-03-18 17:45:00",
         "weekNumber": "11",
         "dayNumber": "6",
         "gymnasium": "gymnasium JOSEPH PLAT"
@@ -804,7 +804,7 @@
         "isAtHome": "true",
         "againstTeam": "LYON HANDBALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-04-02 14:00:00",
+        "date": "2026-04-02 14:00:00",
         "weekNumber": "13",
         "dayNumber": "7",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -814,7 +814,7 @@
         "isAtHome": "true",
         "againstTeam": "HANDBALL CLUB SAINT MARCELLOIS",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-04-02 11:30:00",
+        "date": "2026-04-02 11:30:00",
         "weekNumber": "13",
         "dayNumber": "7",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -824,7 +824,7 @@
         "isAtHome": "true",
         "againstTeam": "HANDBALL CLUB CHABEUIL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-04-09 11:30:00",
+        "date": "2026-04-09 11:30:00",
         "weekNumber": "14",
         "dayNumber": "8",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -834,7 +834,7 @@
         "isAtHome": "true",
         "againstTeam": "HB ETOILE/BEAUVALLON",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-04-09 14:00:00",
+        "date": "2026-04-09 14:00:00",
         "weekNumber": "14",
         "dayNumber": "8",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -844,7 +844,7 @@
         "isAtHome": "true",
         "againstTeam": "LE POUZIN HB 07",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-04-29 16:00:00",
+        "date": "2026-04-29 16:00:00",
         "weekNumber": "17",
         "dayNumber": "9",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -854,7 +854,7 @@
         "isAtHome": "true",
         "againstTeam": "M13F DIV - ENTENTE MERMOZ-ST FONS",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-05-14 10:00:00",
+        "date": "2026-05-14 10:00:00",
         "weekNumber": "19",
         "dayNumber": "10",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -864,7 +864,7 @@
         "isAtHome": "true",
         "againstTeam": "MONTELIMAR CLUB HANDBALL",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-05-14 12:00:00",
+        "date": "2026-05-14 12:00:00",
         "weekNumber": "19",
         "dayNumber": "10",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -874,7 +874,7 @@
         "isAtHome": "true",
         "againstTeam": "P16F - ENTENTE CALUIRE RILLIEUX LYON METROPOLE",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-03-04 18:00:00",
+        "date": "2026-03-04 18:00:00",
         "weekNumber": "9",
         "dayNumber": "15",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -884,7 +884,7 @@
         "isAtHome": "false",
         "againstTeam": "P16F - ENTENTE CO ST FONS - RC MERMOZ",
         "host": "ST FONS CO",
-        "date": "2023-03-11 18:30:00",
+        "date": "2026-03-11 18:30:00",
         "weekNumber": "10",
         "dayNumber": "16",
         "gymnasium": "PALAIS DES SPORTS"
@@ -894,7 +894,7 @@
         "isAtHome": "false",
         "againstTeam": "HBC CHABEUIL 2",
         "host": "HANDBALL CLUB CHABEUIL",
-        "date": "2023-03-11 19:00:00",
+        "date": "2026-03-11 19:00:00",
         "weekNumber": "10",
         "dayNumber": "16",
         "gymnasium": "gymnasium municipal"
@@ -904,7 +904,7 @@
         "isAtHome": "false",
         "againstTeam": "M13F DIV - ENTENTE MERMOZ-ST FONS",
         "host": "MERMOZ RACING CLUB",
-        "date": "2023-03-11 16:30:00",
+        "date": "2026-03-11 16:30:00",
         "weekNumber": "10",
         "dayNumber": "5",
         "gymnasium": "PALAIS DES SPORTS"
@@ -914,7 +914,7 @@
         "isAtHome": "false",
         "againstTeam": "ATHLÉTIC HANDBALL SAINT VALLIER",
         "host": "ATHLETIC HANDBALL ST VALLIER",
-        "date": "2023-03-18 17:30:00",
+        "date": "2026-03-18 17:30:00",
         "weekNumber": "11",
         "dayNumber": "6",
         "gymnasium": "MICHEL BETTON"
@@ -924,7 +924,7 @@
         "isAtHome": "true",
         "againstTeam": "HB PAYS DE ST MARCELLIN",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-04-01 19:00:00",
+        "date": "2026-04-01 19:00:00",
         "weekNumber": "13",
         "dayNumber": "18",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -934,7 +934,7 @@
         "isAtHome": "true",
         "againstTeam": "HB TAIN VION TOURNON",
         "host": "GUILHERAND-GRANGES ARDECHE HANBBALL",
-        "date": "2023-04-02 16:00:00",
+        "date": "2026-04-02 16:00:00",
         "weekNumber": "13",
         "dayNumber": "18",
         "gymnasium": "CENTRE OMNISPORTS"
@@ -944,7 +944,7 @@
         "isAtHome": "false",
         "againstTeam": "P16F  PN - ENTENTE ST DONAT - BOURG DE PEAGE HB",
         "host": "HBC ST DONAT",
-        "date": "2023-04-07 21:00:00",
+        "date": "2026-04-07 21:00:00",
         "weekNumber": "14",
         "dayNumber": "19",
         "gymnasium": "COMPLEXE SPORTIF VERCORS / SALLE COMPETITION"
@@ -954,7 +954,7 @@
         "isAtHome": "false",
         "againstTeam": "HBC LORIOL",
         "host": "HBC LORIOL",
-        "date": "2023-04-29 13:30:00",
+        "date": "2026-04-29 13:30:00",
         "weekNumber": "17",
         "dayNumber": "9",
         "gymnasium": "gymnasium DES ECOLES"
@@ -964,7 +964,7 @@
         "isAtHome": "true",
         "againstTeam": "Vernoux",
         "host": "NULL",
-        "date": "2022-09-28 20:30:00",
+        "date": "2025-09-28 20:30:00",
         "weekNumber": "39",
         "dayNumber": "1",
         "gymnasium": "Centre Omnisports (ancien)"

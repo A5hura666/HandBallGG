@@ -3,8 +3,7 @@ const mongoose = require('mongoose');
 const fs = require('fs');
 const Equipe = require('./../models/equipeModel');
 const Match = require('./../models/matchModel');
-
-
+const User = require("../models/userModel");
 
 dotenv.config({ path: './config.env' });
 
@@ -18,6 +17,7 @@ mongoose.connect(db, {
 
 const Equipes = JSON.parse(fs.readFileSync(`${__dirname}/equipes.json`, 'UTF-8'));
 const Matchs = JSON.parse(fs.readFileSync(`${__dirname}/matchs.json`, 'UTF-8'));
+const Users = JSON.parse(fs.readFileSync(`${__dirname}/users.json`, 'utf-8'));
 
 const importDatabase = async () => {
 	try {
@@ -25,6 +25,8 @@ const importDatabase = async () => {
 		console.log("Equipes created");
 		await Match.create(Matchs);
 		console.log("Matchs created");
+		await User.create(Users);
+		console.log("✅ Users created");
 	} catch (e) {
 		console.error(e)
 	}
@@ -39,6 +41,8 @@ const deleteData = async () => {
 		console.log("Equipe deleted");
 		await Match.deleteMany();
 		console.log("Match deleted");
+		await User.deleteMany();
+		console.log("🗑️  Users deleted");
 	} catch (e) {
 		console.error(e);
 	}
